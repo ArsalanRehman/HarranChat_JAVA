@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "46046119297",
+    "firebase_url": "https://login-910c2.firebaseio.com",
+    "project_id": "login-910c2",
+    "storage_bucket": "login-910c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46046119297:android:f68d29755a6ecbbc471480",
+        "android_client_info": {
+          "package_name": "com.example.harranchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46046119297-kgk3a1q7ft1k7md0pj36bjuipauhdr2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3JA1I8O49eovTlvwiMmj3L9m3oAEXKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46046119297-kgk3a1q7ft1k7md0pj36bjuipauhdr2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
